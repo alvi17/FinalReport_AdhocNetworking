@@ -145,10 +145,63 @@ The simulation was implemented in ns-2. Some important parameters of the simulat
 \item 10 Constant bit rate(CBR) connections
 \item 7 different pause times\footnote{pause time indicates the mobility of the nodes} 0,30, 60, 120, 300, 600 and 900 seconds
 \end{itemize}
-Multiple simulations were run and the results were collected for evaluation. 
 
 
 \section{Evaluation Results}
+Multiple simulations were run and the results were collected for evaluation. 
+\subsection{Comparison with existing routing protocols in delivery rate}
+The best way to evaluate the performance of a new algorithm is to compare the performance with the existing algorithms. So, the performance of ARA was compared with AODV,DSR and DSDV in terms of delivery rate. The observed results are shown in Figure~\ref{fig:picture1}. With high mobility both DSR and ARA has more than 95\% delivery rate. 
+Throughout the simulations ARA performed better than DSDV and AODV in this criteria. Figure~\ref{fig:picture2} shows the delivery rate of ARA within the confidence interval of 95\%. As we can see All results are above 85\% and most results are within the range 90\% and 100\% throughout the 10 simulation runs.
+
+\textbf{Remarks:} ARA is a good choice for mobile networks in terms of data delivery. 
+
+\begin{figure}[t!]
+\centering
+\includegraphics[width=0.7\textwidth]{Picture1.png}
+\caption{\label{fig:picture1}Successful delivered packets as a
+function of pause time.}
+\end{figure}
+
+
+\begin{figure}[t!]
+\centering
+\includegraphics[width=0.7\textwidth]{Picture2.png}
+\caption{\label{fig:picture2}Delivery rate of ARA. Confidence interval of 95\%}
+\end{figure}
+
+
+\subsection{Routing Overhead Comparison}
+\subsubsection{Routing Overhead in terms of databits}
+
+\begin{figure}[t!]
+\centering
+\includegraphics[width=0.7\textwidth]{Picture3.png}
+\caption{\label{fig:picture3}Pause time vs Fraction of successfully send bits and the needed bits}
+\end{figure}
+
+\begin{figure}[t!]
+\centering
+\includegraphics[width=0.7\textwidth]{Picture4.png}
+\caption{\label{fig:picture4}Overhead of ARA in bits. Confidence interval of 95\%}
+\end{figure}
+
+
+
+\subsubsection{Routing Overhead in terms of packets}
+
+\begin{figure}[t!]
+\centering
+\includegraphics[width=0.7\textwidth]{Picture5.png}
+\caption{\label{fig:picture5}Pause time vs Fraction of successfully send bits and the needed bits}
+\end{figure}
+
+\begin{figure}[t!]
+\centering
+\includegraphics[width=0.7\textwidth]{Picture6.png}
+\caption{\label{fig:picture6}Overhead of ARA in packets. Confidence interval of 95\%}
+\end{figure}
+
+
 
 \section{Limitations of ARA}
 

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2017.2.24)  24 FEB 2017 10:15
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2017.2.24)  24 FEB 2017 12:11
 entering extended mode
 **report.tex
 ("F:\Masters\AD Hoc Networking\Final_Report\report.tex"
@@ -550,30 +550,76 @@ File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 132.
- [2] [3]
-("F:\Masters\AD Hoc Networking\Final_Report\report.aux") ) 
+ [2]
+<Picture1.png, id=26, 554.07pt x 422.0568pt>
+File: Picture1.png Graphic file (type png)
+ <use Picture1.png>
+Package pdftex.def Info: Picture1.png used on input line 160.
+(pdftex.def)             Requested size: 272.99881pt x 207.95596pt.
+
+<Picture2.png, id=28, 608.0316pt x 409.22888pt>
+File: Picture2.png Graphic file (type png)
+ <use Picture2.png>
+Package pdftex.def Info: Picture2.png used on input line 168.
+(pdftex.def)             Requested size: 272.99881pt x 183.7454pt.
+
+<Picture3.png, id=29, 539.89941pt x 393.8715pt>
+File: Picture3.png Graphic file (type png)
+ <use Picture3.png>
+Package pdftex.def Info: Picture3.png used on input line 178.
+(pdftex.def)             Requested size: 272.99881pt x 199.16496pt.
+ [3 <F:/Masters/AD Hoc Networking/Final_Report/Picture1.png>]
+<Picture4.png, id=34, 565.35266pt x 373.53033pt>
+File: Picture4.png Graphic file (type png)
+ <use Picture4.png>
+Package pdftex.def Info: Picture4.png used on input line 184.
+(pdftex.def)             Requested size: 272.99881pt x 180.36974pt.
+
+<Picture5.png, id=35, 554.07pt x 422.0568pt>
+File: Picture5.png Graphic file (type png)
+ <use Picture5.png>
+Package pdftex.def Info: Picture5.png used on input line 194.
+(pdftex.def)             Requested size: 272.99881pt x 207.95596pt.
+
+<Picture6.png, id=36, 572.60077pt x 354.0418pt>
+File: Picture6.png Graphic file (type png)
+ <use Picture6.png>
+Package pdftex.def Info: Picture6.png used on input line 200.
+(pdftex.def)             Requested size: 272.99881pt x 168.79285pt.
+
+Overfull \vbox (90.14372pt too high) has occurred while \output is active []
+
+
+[4 <F:/Masters/AD Hoc Networking/Final_Report/Picture2.png> <F:/Masters/AD Hoc 
+Networking/Final_Report/Picture3.png>] [5 <F:/Masters/AD Hoc Networking/Final_R
+eport/Picture4.png> <F:/Masters/AD Hoc Networking/Final_Report/Picture5.png>]
+[6 <F:/Masters/AD Hoc Networking/Final_Report/Picture6.png>]
+("F:\Masters\AD Hoc Networking\Final_Report\report.aux")
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ ) 
 Here is how much of TeX's memory you used:
- 13487 strings out of 493921
- 260827 string characters out of 3144879
- 294684 words of memory out of 3000000
- 16531 multiletter control sequences out of 15000+200000
- 11177 words of font info for 40 fonts, out of 3000000 for 9000
+ 13524 strings out of 493921
+ 261402 string characters out of 3144879
+ 293708 words of memory out of 3000000
+ 16562 multiletter control sequences out of 15000+200000
+ 11484 words of font info for 41 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
  62i,8n,56p,417b,558s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Program Files (x8
-6)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Program Files (x86)
-/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files (x86)/M
-iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Program Files (x86)/Mi
-KTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files (x86)/MiKTe
-X 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files (x86)/MiKTeX 2
-.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files (x86)/MiKTeX 2.9/
-fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Files (x86)/MiKTeX 2.9/font
-s/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/ty
-pe1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type
-1/public/amsfonts/cm/cmti12.pfb>
-Output written on report.pdf (4 pages, 120039 bytes).
+<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb>
+<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C
+:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:
+/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Pr
+ogram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Progr
+am Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program 
+Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program File
+s (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files (x
+86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files (x86
+)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on report.pdf (7 pages, 422487 bytes).
 PDF statistics:
- 60 PDF objects out of 1000 (max. 8388607)
+ 84 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 18 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 48 words of extra memory for PDF output out of 10000 (max. 10000000)
 
