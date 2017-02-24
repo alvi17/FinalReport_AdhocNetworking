@@ -73,8 +73,8 @@
 \begin{minipage}{0.5\textwidth}
 \begin{flushleft} \large
 \emph{Report Writers:}\\
-Shantanu Sarkar\newline(0416052042) \newline % Your name
-Mahmud Ahmed\newline(0416052028) \newline
+Shantanu Sarkar\newline(0416052041) \newline % Your name
+Mahmud Ahmed\newline(0416052027) \newline
 Md. Mostafizur Rahman\newline(0416052032) 
 \end{flushleft}
 \end{minipage}
@@ -127,9 +127,26 @@ Introduction of the report goes here.
 \section{Idea}
 
 \section{Evaluation Metrics}
-
+According to the Authors, the main feature of ARA is its low routing overhead and easy maintainability of routes between nodes in the topology. So, The evaluation metrics considered to measure the performance of ARA are:
+\begin{itemize}
+\item Delivery rate 
+\item Routing overhead in terms of bits
+\item Routing overhead in terms of packets
+\end{itemize}
 
 \section{Evaluation Process}
+The performance of ARA was evaluated using simulation in terms of evaluation metrics mentioned earlier. 
+The simulation was implemented in ns-2. Some important parameters of the simulation environment are:
+
+\begin{itemize}
+\item Simulation area  1500m×300m 
+\item Maximum velocity of nodes 10 m/s
+\item Simulation time  900 seconds
+\item 10 Constant bit rate(CBR) connections
+\item 7 different pause times\footnote{pause time indicates the mobility of the nodes} 0,30, 60, 120, 300, 600 and 900 seconds
+\end{itemize}
+Multiple simulations were run and the results were collected for evaluation. 
+
 
 \section{Evaluation Results}
 

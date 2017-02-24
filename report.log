@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2017.2.24)  24 FEB 2017 08:47
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2017.2.24)  24 FEB 2017 10:15
 entering extended mode
 **report.tex
 ("F:\Masters\AD Hoc Networking\Final_Report\report.tex"
@@ -542,35 +542,38 @@ ing/Final_Report/logo.png>] ("F:\Masters\AD Hoc Networking\Final_Report\report.
 toc")
 \tf@toc=\write4
  [1]
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 134.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 132.
 
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\omscmr.fd"
 File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 134.
- [2]
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 132.
+ [2] [3]
 ("F:\Masters\AD Hoc Networking\Final_Report\report.aux") ) 
 Here is how much of TeX's memory you used:
- 13486 strings out of 493921
- 260816 string characters out of 3144879
- 292684 words of memory out of 3000000
- 16530 multiletter control sequences out of 15000+200000
- 11030 words of font info for 39 fonts, out of 3000000 for 9000
+ 13487 strings out of 493921
+ 260827 string characters out of 3144879
+ 294684 words of memory out of 3000000
+ 16531 multiletter control sequences out of 15000+200000
+ 11177 words of font info for 40 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 62i,5n,56p,417b,558s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 62i,8n,56p,417b,558s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files (x8
 6)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Program Files (x86)
 /MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files (x86)/M
 iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Program Files (x86)/Mi
-KTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files (x86)/MiKTe
-X 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files (x86)/MiKTeX 2
-.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files (x86)/MiKTeX 2.9
-/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on report.pdf (3 pages, 89888 bytes).
+KTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files (x86)/MiKTe
+X 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files (x86)/MiKTeX 2
+.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files (x86)/MiKTeX 2.9/
+fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Files (x86)/MiKTeX 2.9/font
+s/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/ty
+pe1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type
+1/public/amsfonts/cm/cmti12.pfb>
+Output written on report.pdf (4 pages, 120039 bytes).
 PDF statistics:
- 45 PDF objects out of 1000 (max. 8388607)
+ 60 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  18 words of extra memory for PDF output out of 10000 (max. 10000000)
 
