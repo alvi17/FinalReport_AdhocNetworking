@@ -140,7 +140,7 @@ The simulation was implemented in ns-2. Some important parameters of the simulat
 
 \begin{itemize}
 \item Simulation area  1500m×300m 
-\item Maximum velocity of nodes 10 m/s
+\item Maximum velocity of nodes 10 m/s using Random waypoint model.
 \item Simulation time  900 seconds
 \item 10 Constant bit rate(CBR) connections
 \item 7 different pause times\footnote{pause time indicates the mobility of the nodes} 0,30, 60, 120, 300, 600 and 900 seconds
@@ -153,7 +153,6 @@ Multiple simulations were run and the results were collected for evaluation.
 The best way to evaluate the performance of a new algorithm is to compare the performance with the existing algorithms. So, the performance of ARA was compared with AODV,DSR and DSDV in terms of delivery rate. The observed results are shown in Figure~\ref{fig:picture1}. With high mobility both DSR and ARA has more than 95\% delivery rate. 
 Throughout the simulations ARA performed better than DSDV and AODV in this criteria. Figure~\ref{fig:picture2} shows the delivery rate of ARA within the confidence interval of 95\%. As we can see All results are above 85\% and most results are within the range 90\% and 100\% throughout the 10 simulation runs.
 
-\textbf{Remarks:} ARA is a good choice for mobile networks in terms of data delivery. 
 
 \begin{figure}[t!]
 \centering
@@ -171,8 +170,10 @@ function of pause time.}
 
 
 \subsection{Routing Overhead Comparison}
+As different protocols generate the overhead in very different ways, the routing overhead of different algorithms were observed both in terms of fraction of routing packets needed to deliver a data packet and fraction of databits needed for routing.
 \subsubsection{Routing Overhead in terms of databits}
-
+Figure ~\ref{fig:picture3} shows the routing overhead of routing algorithms in term of routing bit as a fraction of total databits. In this case ARA give the best results throughout the simulations. Figure ~\ref{fig:picture4} show the overhead of ARA in 95\% confidence interval.
+  
 \begin{figure}[t!]
 \centering
 \includegraphics[width=0.7\textwidth]{Picture3.png}
@@ -188,7 +189,10 @@ function of pause time.}
 
 
 \subsubsection{Routing Overhead in terms of packets}
-
+Figure ~\ref{fig:picture5} shows the routing overhead of routing algorithms in term of packets. In this case ARA give second best results following DSR.This is due to the needed flooding of the approach in the route finding phase. With high node mobility route failure occur more often, thus requires the
+performing of the route failure handling part of the algorithm,which in worst case has to backtrack the path until
+the sender. Figure ~\ref{fig:picture6} show the overhead of ARA in 95\% confidence interval.
+  
 \begin{figure}[t!]
 \centering
 \includegraphics[width=0.7\textwidth]{Picture5.png}
@@ -202,8 +206,11 @@ function of pause time.}
 \end{figure}
 
 
+\textbf{Remarks:} ARA is a good choice for mobile networks in terms of data delivery,routing overhead. But a better conclusion can be derived if individual performances of DSR,DSDV,AODV were presented in 95\% confidence interval like Figure ~\ref{fig:picture2}, Figure ~\ref{fig:picture4}, Figure ~\ref{fig:picture6}. In that case we would be able to observe the fluctuations of performance over different mobility. 
+Nevertheless, we consider ARA as a robust and highly maintainable routing protocols in mobile adhoc networks. 
 
 \section{Limitations of ARA}
+
 
 \section{Future Works}
 
