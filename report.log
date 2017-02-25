@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2017.2.24)  24 FEB 2017 12:44
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2017.2.24)  25 FEB 2017 13:17
 entering extended mode
 **report.tex
 ("F:\Masters\AD Hoc Networking\Final_Report\report.tex"
@@ -542,77 +542,119 @@ ing/Final_Report/logo.png>] ("F:\Masters\AD Hoc Networking\Final_Report\report.
 toc")
 \tf@toc=\write4
  [1]
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 132.
+[2] <adhoc.png, id=23, 492.33937pt x 267.24844pt>
+File: adhoc.png Graphic file (type png)
+ <use adhoc.png>
+Package pdftex.def Info: adhoc.png used on input line 134.
+(pdftex.def)             Requested size: 246.16907pt x 133.62389pt.
+ [3 <F:/Masters/AD Hoc Networking/Final_Report/adhoc.png>]
+<ant2.jpg, id=29, 281.55188pt x 64.74188pt>
+File: ant2.jpg Graphic file (type jpg)
+ <use ant2.jpg>
+Package pdftex.def Info: ant2.jpg used on input line 151.
+(pdftex.def)             Requested size: 253.39433pt x 58.26714pt.
+ [4 <F:/Masters/AD Hoc Networking/Final_Report/ant2.jpg>]
+<equations.jpg, id=33, 440.39531pt x 219.06844pt>
+File: equations.jpg Graphic file (type jpg)
+ <use equations.jpg>
+Package pdftex.def Info: equations.jpg used on input line 163.
+(pdftex.def)             Requested size: 264.23921pt x 131.44206pt.
+
+<fantbant.jpg, id=34, 450.18187pt x 181.42781pt>
+File: fantbant.jpg Graphic file (type jpg)
+ <use fantbant.jpg>
+Package pdftex.def Info: fantbant.jpg used on input line 177.
+(pdftex.def)             Requested size: 270.1112pt x 108.85751pt.
+ [5 <F:/Masters/AD Hoc Networking/Final_Report/equations.jpg>]
+<duperr.jpg, id=39, 549.55313pt x 242.40562pt>
+File: duperr.jpg Graphic file (type jpg)
+ <use duperr.jpg>
+Package pdftex.def Info: duperr.jpg used on input line 187.
+(pdftex.def)             Requested size: 329.73442pt x 145.44447pt.
+ [6 <F:/Masters/AD Hoc Networking/Final_Report/fantbant.jpg> <F:/Masters/AD Hoc
+ Networking/Final_Report/duperr.jpg>] <rout.jpg, id=44, 559.33969pt x 289.08pt>
+File: rout.jpg Graphic file (type jpg)
+ <use rout.jpg>
+Package pdftex.def Info: rout.jpg used on input line 198.
+(pdftex.def)             Requested size: 335.6064pt x 173.44933pt.
+
+[7 <F:/Masters/AD Hoc Networking/Final_Report/rout.jpg>]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 215.
 
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\omscmr.fd"
 File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 132.
- [2]
-<Picture1.png, id=26, 554.07pt x 422.0568pt>
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 215.
+ [8]
+<Picture1.png, id=52, 554.07pt x 422.0568pt>
 File: Picture1.png Graphic file (type png)
  <use Picture1.png>
-Package pdftex.def Info: Picture1.png used on input line 159.
+Package pdftex.def Info: Picture1.png used on input line 261.
 (pdftex.def)             Requested size: 272.99881pt x 207.95596pt.
 
-<Picture2.png, id=28, 608.0316pt x 409.22888pt>
+<Picture2.png, id=53, 608.0316pt x 409.22888pt>
 File: Picture2.png Graphic file (type png)
  <use Picture2.png>
-Package pdftex.def Info: Picture2.png used on input line 167.
+Package pdftex.def Info: Picture2.png used on input line 269.
 (pdftex.def)             Requested size: 272.99881pt x 183.7454pt.
- [3 <F:/Masters/AD Hoc Networking/Final_Report/Picture1.png>]
-<Picture3.png, id=33, 539.89941pt x 393.8715pt>
+ [9] [10 <F:/Masters/AD Hoc Networking/Final_Report/Picture1.png> <F:/Masters/A
+D Hoc Networking/Final_Report/Picture2.png>]
+<Picture3.png, id=64, 539.89941pt x 393.8715pt>
 File: Picture3.png Graphic file (type png)
  <use Picture3.png>
-Package pdftex.def Info: Picture3.png used on input line 179.
+Package pdftex.def Info: Picture3.png used on input line 281.
 (pdftex.def)             Requested size: 272.99881pt x 199.16496pt.
 
-<Picture4.png, id=34, 565.35266pt x 373.53033pt>
+<Picture4.png, id=65, 565.35266pt x 373.53033pt>
 File: Picture4.png Graphic file (type png)
  <use Picture4.png>
-Package pdftex.def Info: Picture4.png used on input line 185.
+Package pdftex.def Info: Picture4.png used on input line 287.
 (pdftex.def)             Requested size: 272.99881pt x 180.36974pt.
 
-<Picture5.png, id=35, 554.07pt x 422.0568pt>
+<Picture5.png, id=66, 554.07pt x 422.0568pt>
 File: Picture5.png Graphic file (type png)
  <use Picture5.png>
-Package pdftex.def Info: Picture5.png used on input line 198.
+Package pdftex.def Info: Picture5.png used on input line 300.
 (pdftex.def)             Requested size: 272.99881pt x 207.95596pt.
 
-<Picture6.png, id=36, 572.60077pt x 354.0418pt>
+<Picture6.png, id=67, 572.60077pt x 354.0418pt>
 File: Picture6.png Graphic file (type png)
  <use Picture6.png>
-Package pdftex.def Info: Picture6.png used on input line 204.
+Package pdftex.def Info: Picture6.png used on input line 306.
 (pdftex.def)             Requested size: 272.99881pt x 168.79285pt.
- [4 <F:/Masters/AD Hoc Networking/Final_Report/Picture2.png>] [5 <F:/Masters/AD
- Hoc Networking/Final_Report/Picture3.png> <F:/Masters/AD Hoc Networking/Final_
-Report/Picture4.png>] [6 <F:/Masters/AD Hoc Networking/Final_Report/Picture5.pn
-g> <F:/Masters/AD Hoc Networking/Final_Report/Picture6.png>] [7]
-("F:\Masters\AD Hoc Networking\Final_Report\report.aux") ) 
+ [11 <F:/Masters/AD Hoc Networking/Final_Report/Picture3.png>] [12 <F:/Masters/
+AD Hoc Networking/Final_Report/Picture4.png> <F:/Masters/AD Hoc Networking/Fina
+l_Report/Picture5.png>] [13 <F:/Masters/AD Hoc Networking/Final_Report/Picture6
+.png>]
+[14] [15] ("F:\Masters\AD Hoc Networking\Final_Report\report.aux")
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ ) 
 Here is how much of TeX's memory you used:
- 13524 strings out of 493921
- 261402 string characters out of 3144879
- 294732 words of memory out of 3000000
- 16562 multiletter control sequences out of 15000+200000
- 11484 words of font info for 41 fonts, out of 3000000 for 9000
+ 13567 strings out of 493921
+ 261927 string characters out of 3144879
+ 294809 words of memory out of 3000000
+ 16598 multiletter control sequences out of 15000+200000
+ 11831 words of font info for 42 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 62i,8n,56p,445b,558s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Program Files (x8
-6)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Program Files (x86)
-/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files (x86)/M
-iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Program Files (x86)/Mi
-KTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files (x86)/MiKTe
-X 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files (x86)/MiKTeX 2
-.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files (x86)/MiKTeX 2.9/
-fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Files (x86)/MiKTeX 2.9/font
-s/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/ty
-pe1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type
-1/public/amsfonts/cm/cmti12.pfb>
-Output written on report.pdf (8 pages, 424938 bytes).
+ 62i,8n,56p,1164b,558s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb>
+<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C
+:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:
+/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/P
+rogram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Prog
+ram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program
+ Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Fi
+les (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Files 
+(x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files (x86
+)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files (x86)/
+MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on report.pdf (16 pages, 609091 bytes).
 PDF statistics:
- 87 PDF objects out of 1000 (max. 8388607)
+ 123 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 48 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 78 words of extra memory for PDF output out of 10000 (max. 10000000)
 
